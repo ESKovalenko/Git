@@ -1,0 +1,9 @@
+ 1. Title
+ 2. Description
+ 3. StepsToReproduce
+ 4. ExpectedResult 
+ 5. ActualResult
+ 6. Severity
+ 7. Priority
+ 8. Environment
+ 9. Attachments
